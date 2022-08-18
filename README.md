@@ -1,6 +1,6 @@
 # Intro:
 
-This project is a converter in java
+This project is a converter in javaFX
 
 ## Table of Contents
 
